@@ -1,0 +1,37 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs / temporales
+*.log
+temp*
+temporal_*.pdf
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos grandes o locales
+*.pdf
+
+# Docker (opcional)
+*.tar
+
+# Documentación pesada
+Documentación_TT/
+
+# Cache de pruebas
+.pytest_cache/
+
+# Jupyter (por si luego usas)
+.ipynb_checkpoints/
